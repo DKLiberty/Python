@@ -3,7 +3,6 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MunPNYumw6M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
-<br>
 
 Добро пожаловать в репозиторий **Python Course**! Этот курс предназначен для изучения основ Python, а также его более продвинутых возможностей. Независимо от вашего уровня подготовки, здесь вы найдете полезные материалы, практические задания и проекты для отработки навыков.
 

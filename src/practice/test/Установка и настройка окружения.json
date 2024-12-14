@@ -1,0 +1,107 @@
+{
+  "part 1": {
+    "question": "I",
+    "options 1": "わたし",
+    "options 2": "あなた",
+    "options 3": "かれ",
+    "answer": "わたし"
+  },
+  "part 2": {
+    "question": "we",
+    "options 1": "わたしたち",
+    "options 2": "かれら",
+    "options 3": "あなたたち",
+    "answer": "わたしたち"
+  },
+  "part 3": {
+    "question": "you",
+    "options 1": "かれ",
+    "options 2": "あなた",
+    "options 3": "わたし",
+    "answer": "あなた"
+  },
+  "part 4": {
+    "question": "that person, he, she",
+    "options 1": "かのじょ",
+    "options 2": "あのひと",
+    "options 3": "かれ",
+    "answer": "あのひと"
+  },
+  "part 5": {
+    "question": "polite equivalent of あのひと",
+    "options 1": "あのかた",
+    "options 2": "せんせい",
+    "options 3": "しゃちょう",
+    "answer": "あのかた"
+  },
+  "part 6": {
+    "question": "ladies and gentlemen, all of you",
+    "options 1": "みなさん",
+    "options 2": "せんせい",
+    "options 3": "がくせい",
+    "answer": "みなさん"
+  },
+  "part 7": {
+    "question": "Mr., Ms. (title of respect added to a name)",
+    "options 1": "~ちゃん",
+    "options 2": "~さん",
+    "options 3": "~くん",
+    "answer": "~さん"
+  },
+  "part 8": {
+    "question": "(suffix often added to a child's name instead of ~さん)",
+    "options 1": "~くん",
+    "options 2": "~ちゃん",
+    "options 3": "~じん",
+    "answer": "~ちゃん"
+  },
+  "part 9": {
+    "question": "(suffix often added to a boy's name)",
+    "options 1": "~じん",
+    "options 2": "~くん",
+    "options 3": "~さん",
+    "answer": "~くん"
+  },
+  "part 10": {
+    "question": "(suffix meaning \"a national of\"; e.g., アメ)",
+    "options 1": "~じん",
+    "options 2": "~さい",
+    "options 3": "~ちゃん",
+    "answer": "~じん"
+  },
+  "part 11": {
+    "question": "teacher, instructor (not used when referring to one's own job)",
+    "options 1": "きょうし",
+    "options 2": "せんせい",
+    "options 3": "だいがく",
+    "answer": "せんせい"
+  },
+  "part 12": {
+    "question": "teacher, instructor",
+    "options 1": "きょうし",
+    "options 2": "しゃいん",
+    "options 3": "びょういん",
+    "answer": "きょうし"
+  },
+  "part 13": {
+    "question": "student",
+    "options 1": "かいしゃいん",
+    "options 2": "ぎんこういん",
+    "options 3": "がくせい",
+    "answer": "がくせい"
+  },
+  "part 14": {
+    "question": "company employee",
+    "options 1": "かいしゃいん",
+    "options 2": "いしゃ",
+    "options 3": "きょうし",
+    "answer": "かいしゃいん"
+  },
+  "part 15": {
+    "question": "employee of ~ Company (used with a company's name; e.g., IMC のしゃいん)",
+    "options 1": "しゃいん",
+    "options 2": "だいがく",
+    "options 3": "せんせい",
+    "answer": "しゃいん"
+  }
+}

@@ -1,62 +1,10 @@
 {
   "part 1": {
     "question": "I",
-    "answer": "わたし"
+    "answer": "we"
   },
   "part 2": {
     "question": "we",
-    "answer": "わたしたち"
-  },
-  "part 3": {
-    "question": "you",
-    "answer": "あなた"
-  },
-  "part 4": {
-    "question": "that person, he, she",
-    "answer": "あのひと"
-  },
-  "part 5": {
-    "question": "polite equivalent of あのひと",
-    "answer": "あのかた"
-  },
-  "part 6": {
-    "question": "ladies and gentlemen, all of you",
-    "answer": "みなさん"
-  },
-  "part 7": {
-    "question": "Mr., Ms. (title of respect added to a name)",
-    "answer": "~さん"
-  },
-  "part 8": {
-    "question": "(suffix often added to a child's name instead of ~さん)",
-    "answer": "~ちゃん"
-  },
-  "part 9": {
-    "question": "(suffix often added to a boy's name)",
-    "answer": "~くん"
-  },
-  "part 10": {
-    "question": "(suffix meaning \"a national of\"; e.g., アメ)",
-    "answer": "~じん"
-  },
-  "part 11": {
-    "question": "teacher, instructor (not used when referring to one's own job)",
-    "answer": "せんせい"
-  },
-  "part 12": {
-    "question": "teacher, instructor",
-    "answer": "きょうし"
-  },
-  "part 13": {
-    "question": "student",
-    "answer": "がくせい"
-  },
-  "part 14": {
-    "question": "company employee",
-    "answer": "かいしゃいん"
-  },
-  "part 15": {
-    "question": "employee of ~ Company (used with a company's name; e.g., IMC のしゃいん)",
-    "answer": "しゃいん"
+    "answer": "I"
   }
 }
